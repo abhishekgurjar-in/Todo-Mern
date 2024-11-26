@@ -118,4 +118,4 @@ Ensure you have the following installed:
 
 ## Author
 
-Developed by [Your Name](https://github.com/abhishekgurjar-in). Contributions and feedback are welcome! 😊
+Developed by [Abhishek Gurjar](https://github.com/abhishekgurjar-in). Contributions and feedback are welcome! 😊
